@@ -1,11 +1,11 @@
 export const portfolioData = {
   personal: {
-    name: "Inariko",
-    title: "Vtuber Model, Rigging",
-    subtitle: "Building digital experiences that matter",
+    name: "Inariko Project",
+    title: "Animation and Rigging",
+    subtitle: "Specialist Rigging and Animation",
     bio: "I'm a passionate 2D/3D VTuber modeler and rigger with 5+ years of experience crafting expressive, high-quality avatars for content creators. I specialize in Live2D and Unity-based rigging, focusing on smooth facial expressions, natural motion, and seamless tracking integration to enhance virtual performance and viewer engagement.",
     location: "Semarang Central Java, Indonesia",
-    email: "alex@example.com",
+    email: "inariko147@gmail.com",
     phone: "+62 858-4894-9085",
     linkedin: "https://linkedin.com/in/alexjohnson",
     github: "https://github.com/alexjohnson",

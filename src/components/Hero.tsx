@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-fadeInUp">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-            Hi, I'm{' '}
+            {' '}
             <span className="bg-gradient-to-r from-teal-400 to-blue-400 bg-clip-text text-transparent">
               {portfolioData.personal.name.split(' ')[0]}
             </span>
